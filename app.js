@@ -1,7 +1,7 @@
 window.addEventListener('load', () => {
     let long;
     let lat;
-    let key = "\_('-')_/";
+    let key = "4ec4f5f91012690cc237f42df66b9cb5";
     //key and api can be obtained from https://darksky.net/dev
     //free acounts are avainable
     let temperatureDescription = document.querySelector('.temperature-description');
